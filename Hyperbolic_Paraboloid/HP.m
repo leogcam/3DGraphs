@@ -1,4 +1,4 @@
 syms x y;
 f(x,y)=x^2-y^2/2;
 fmesh(f)
-figure2xhtml()
+fig2plotly()
